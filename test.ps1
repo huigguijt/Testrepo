@@ -1,2 +1,1 @@
-Get-help
-#update 1116
+Write-Host 'Hello, GitHub!'
